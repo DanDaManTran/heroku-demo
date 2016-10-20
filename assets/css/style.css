@@ -3,6 +3,7 @@ body{
 	padding: 0;
 	background-color: #DCDCDC;
 	font-family: "Comic Sans MS", times, sans-serif;
+	background-image:  url("../images/backGround.png");
 }
 
 a{
